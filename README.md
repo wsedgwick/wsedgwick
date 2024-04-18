@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-I am a drone technician specializing in wildlife survey design and machine learning. As a licensed commercial drone pilot, I consult with and provide expertise to non-profit organizations and government agencies to design and implement drone surveys for wildlife and habitat in Argentina, Bolivia, Ecuador, Colombia, Vietnam, and the United States. I am currently getting a Master of Environmental Data Science at the UC Santa Barbara Bren School to advance my machine learning and AI skills in wildlife conservation.
+I am a drone technician specializing in wildlife survey design and machine learning. As a licensed commercial drone pilot, I consult with and provide expertise to non-profit organizations and government agencies to design and implement drone surveys for wildlife and habitat in Argentina, Bolivia, Ecuador, Colombia, Vietnam, and the United States. Last year I graduated with a Master's Degree in Environmental Data Science at the UC Santa Barbara Bren School, which provided a machine learning foundation from which I am currently learning object detection to count the individuals in the drone images I take.
 <!--
 **wsedgwick/wsedgwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
